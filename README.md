@@ -9,7 +9,7 @@
 - I've completed course in Web-design and use this knowledge to create a website
 
 ### Connect with me:
-- tg - @edybov
+- tg - @edybov71
 
 ### Exemple of my code:
 ```
