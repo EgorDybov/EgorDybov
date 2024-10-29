@@ -2,7 +2,7 @@
 
 ## I'm a beginner frontend-developeer
 
-- I've benn learning frontend development for almost 8 mounths
+- I've been learning frontend development for almost 8 mounths
 - I use HTML, CSS and JavaScript at a basic level
 - I lean PhP to create a website with a database
 - I plan to study React and other frameworks
