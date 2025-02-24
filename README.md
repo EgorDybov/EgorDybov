@@ -29,4 +29,4 @@ function camelCase(str) {
   }
 ```
 
-### English level - B1
+### English level - B2
